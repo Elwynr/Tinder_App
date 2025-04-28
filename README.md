@@ -15,3 +15,5 @@ JSP/HTML/CSS based simple UI
 Servlets for backend logic
 
 PostgreSQL database integration
+
+📬 Contact For any questions or feedback: Elvin Ramazanlı ✉️ elvin.rmznl16@gmail.com
